@@ -1,4 +1,4 @@
-# Tomislav Zorcec
+### Tomislav Zorcec
 
 I build developer tools that make it easier to work with LLMs on real, running code.
 
@@ -9,4 +9,4 @@ Interested in workflow tooling, browser automation, and making AI-assisted devel
 
 Tech I work with: TypeScript, Node.js, Playwright, MCP.
 
-Contact: vibeflow.tools@gmail.com
+Connect on [LinkedIn](https://www.linkedin.com/in/tomislav-zorcec/) · vibeflow.tools@gmail.com
